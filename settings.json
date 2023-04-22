@@ -1,0 +1,34 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "Copilot Theme",
+  "editor.semanticTokenColorCustomizations": {
+    "enabled": true,
+    "rules": {
+      "variable.readonly": "#eeeeee",
+      "namespace": "#cef4ff",
+      "type": "#57a1f6",
+      "variable": "#d7d7d7",
+      "parameter": "#d7d7d7"
+    }
+  },
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": [
+    "source.organizeImports",
+    "source.fixAll.eslint"
+  ],
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
