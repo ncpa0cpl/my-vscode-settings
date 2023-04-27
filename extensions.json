@@ -1,0 +1,18 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "aaron-bond.better-comments",
+    "firsttris.vscode-jest-runner",
+    "formulahendry.auto-rename-tag",
+    "streetsidesoftware.code-spell-checker",
+    "benjaminbenais.copilot-theme",
+    "Tobermory.es6-string-html,
+    "GitHub.copilot",
+    "PKief.material-icon-theme",
+    "bierner.markdown-preview-github-styles",
+    "yoavbls.pretty-ts-errors",
+    "ncpa0cpl.ts-template-literal",
+    "meganrogge.template-string-converter"
+  ]
+}
